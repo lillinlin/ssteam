@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { FaTwitter, FaInstagram, FaYoutube, FaTwitch } from 'react-icons/fa';
+import { FaTwitter, FaInstagram, FaYoutube, FaTwitch, FaSteam } from 'react-icons/fa';
 
 interface PlayerSocial {
   steam?: string;
@@ -26,13 +26,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/woxic.png',
-    socials: {
-      steam: '',
-      twitter: '',
-      instagram: '',
-      youtube: '',
-      twitch: ''
-    }
+    socials: { steam: '', twitter: '', instagram: '', youtube: '', twitch: '' }
   },
   {
     id: 2,
@@ -40,12 +34,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/xantares.png',
-    socials: {
-      steam: '',
-      twitter: '',
-      instagram: '',
-      youtube: '',
-    }
+    socials: { steam: '', twitter: '', instagram: '', youtube: '' }
   },
   {
     id: 3,
@@ -53,13 +42,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/maj3r.png',
-    socials: {
-      steam: 'https://steamcommunity.com/id/lillinlin',
-      twitter: '',
-      instagram: '',
-      youtube: '',
-      twitch: ''
-    }
+    socials: { steam: 'https://steamcommunity.com/id/lillinlin', twitter: '', instagram: '', youtube: '', twitch: '' }
   },
   {
     id: 4,
@@ -67,12 +50,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/wicadia.png',
-    socials: {
-      steam: '',
-      twitter: '',
-      instagram: '',
-      twitch: ''
-    }
+    socials: { steam: '', twitter: '', instagram: '', twitch: '' }
   },
   {
     id: 5,
@@ -80,12 +58,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/jottaaa.png',
-    socials: {
-      steam: '',
-      twitter: '',
-      instagram: '',
-      twitch: ''
-    }
+    socials: { steam: '', twitter: '', instagram: '', twitch: '' }
   }
 ];
 
@@ -116,8 +89,6 @@ const TeamsSection = () => {
                   height={400}
                   className="w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />
-
-                {/* Player Details Overlay */}
                 <div className="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/90 to-transparent">
                   <h3 className="text-primary text-xl font-bold">{player.name}</h3>
                   <p className="text-white text-sm">{player.fullName}</p>
@@ -128,11 +99,10 @@ const TeamsSection = () => {
               {/* Social Links */}
               <div className="p-3 flex justify-center gap-4 border-t border-[#252430]">
                 {player.socials.steam && (
-              <a href={player.socials.steam} target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
-                <FaSteam />
-              </a>
-            )}
-              <div className="p-3 flex justify-center gap-4 border-t border-[#252430]">
+                  <a href={player.socials.steam} target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+                    <FaSteam />
+                  </a>
+                )}
                 {player.socials.twitter && (
                   <a href={player.socials.twitter} target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
                     <FaTwitter />
