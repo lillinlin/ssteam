@@ -21,64 +21,64 @@ interface Player {
 const players: Player[] = [
   {
     id: 1,
-    name: 'WOXIC',
-    fullName: 'Özgür Eker',
-    role: 'AWPer',
+    name: 'chengnuo',
+    fullName: '',
+    role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/woxic.png',
     socials: {
-      twitter: 'https://www.twitter.com/w0xic',
-      instagram: 'https://www.instagram.com/woxic',
-      youtube: 'https://www.youtube.com/woxicofficial',
-      twitch: 'https://www.twitch.tv/w0xic'
+      twitter: '',
+      instagram: '',
+      youtube: '',
+      twitch: ''
     }
   },
   {
     id: 2,
-    name: 'XANTARES',
-    fullName: 'İsmailcan Dörtkardeş',
-    role: 'Rifler',
+    name: 'KEEP',
+    fullName: '',
+    role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/xantares.png',
     socials: {
-      twitter: 'https://twitter.com/XANTAREScsgo',
-      instagram: 'https://www.instagram.com/xantarescsgo',
-      youtube: 'https://www.youtube.com/c/XANTARES',
+      twitter: '',
+      instagram: '',
+      youtube: '',
     }
   },
   {
     id: 3,
-    name: 'lillinlin',
-    fullName: '我是高手',
-    role: '最厉害的',
+    name: 'LILLINLIN',
+    fullName: '',
+    role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/maj3r.png',
     socials: {
-      twitter: 'https://twitter.com/Maj3r_',
-      instagram: 'https://www.instagram.com/maj3r_',
-      youtube: 'https://www.youtube.com/MAJ3R',
-      twitch: 'https://www.twitch.tv/maj3r'
+      twitter: '',
+      instagram: '',
+      youtube: '',
+      twitch: ''
     }
   },
   {
     id: 4,
-    name: 'WICADIA',
-    fullName: 'Ali Haydar Yalçın',
-    role: 'Entry Fragger',
+    name: 'AQK',
+    fullName: '',
+    role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/wicadia.png',
     socials: {
-      twitter: 'https://twitter.com/wicadiacs',
-      instagram: 'https://www.instagram.com/wicadia',
-      twitch: 'https://www.twitch.tv/wicadiacs'
+      twitter: '',
+      instagram: '',
+      twitch: ''
     }
   },
   {
     id: 5,
-    name: 'JOTTAAA',
-    fullName: 'Samet Köklü',
-    role: 'Rifler',
+    name: 'canju',
+    fullName: '',
+    role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/jottaaa.png',
     socials: {
-      twitter: 'https://twitter.com/jotta_cs',
-      instagram: 'https://www.instagram.com/jottacs',
-      twitch: 'https://www.twitch.tv/jottaaa_cs'
+      twitter: '',
+      instagram: '',
+      twitch: ''
     }
   }
 ];
