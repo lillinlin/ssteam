@@ -46,9 +46,9 @@ const players: Player[] = [
   },
   {
     id: 3,
-    name: 'MAJ3R',
-    fullName: 'Engin Küpeli',
-    role: 'In Game Leader',
+    name: 'lillinlin',
+    fullName: '我是高手',
+    role: '最厉害的',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/maj3r.png',
     socials: {
       twitter: 'https://twitter.com/Maj3r_',
