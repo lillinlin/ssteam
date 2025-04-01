@@ -6,9 +6,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-[#15141a]">
       <HeroSection />
-      <NewsSection />
       <TeamsSection />
-      <VideoSection />
       <AchievementsSection />
     </main>
   );
