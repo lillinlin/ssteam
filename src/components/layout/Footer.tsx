@@ -93,7 +93,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="text-center text-gray-400 border-t border-[#252430] pt-8">
           <p className="text-sm">
-            &copy; {currentYear} Eternal Fire. All Rights Reserved.
+            © 1976 END
           </p>
         </div>
       </div>
