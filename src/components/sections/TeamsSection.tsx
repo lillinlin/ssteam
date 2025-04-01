@@ -71,10 +71,7 @@ const TeamsSection = () => {
             MEET OUR <span className="text-primary">SQUADS</span>
           </h2>
           <div className="flex gap-2">
-            <button className="px-4 py-2 text-white font-medium bg-primary rounded-sm">CS2</button>
-            <button className="px-4 py-2 text-white font-medium hover:bg-[#252430] rounded-sm">VALORANT</button>
-            <button className="px-4 py-2 text-white font-medium hover:bg-[#252430] rounded-sm">PUBG</button>
-            <button className="px-4 py-2 text-white font-medium hover:bg-[#252430] rounded-sm">BRAWL STARS</button>
+            <button className="px-4 py-2 text-white font-medium bg-primary rounded-sm">CSGO</button>
           </div>
         </div>
 
