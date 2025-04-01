@@ -26,7 +26,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/woxic.png',
-    socials: { steam: '', twitter: '', instagram: '', youtube: '', twitch: '' }
+    socials: { steam: 'https://steamcommunity.com/profiles/76561199005327501', twitter: '', instagram: '', youtube: '', twitch: '' }
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/xantares.png',
-    socials: { steam: '', twitter: '', instagram: '', youtube: '' }
+    socials: { steam: 'https://steamcommunity.com/profiles/76561199053666935', twitter: '', instagram: '', youtube: '' }
   },
   {
     id: 3,
@@ -50,7 +50,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/wicadia.png',
-    socials: { steam: '', twitter: '', instagram: '', twitch: '' }
+    socials: { steam: 'https://steamcommunity.com/profiles/76561198427520544', twitter: '', instagram: '', twitch: '' }
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ const players: Player[] = [
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/jottaaa.png',
-    socials: { steam: '', twitter: '', instagram: '', twitch: '' }
+    socials: { steam: 'https://steamcommunity.com/profiles/76561199104395301', twitter: '', instagram: '', twitch: '' }
   }
 ];
 
