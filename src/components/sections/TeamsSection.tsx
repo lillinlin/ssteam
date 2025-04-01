@@ -129,9 +129,6 @@ const TeamsSection = () => {
         </div>
 
         <div className="mt-10 text-center">
-          <Link href="/teams/cs2-team" className="btn-primary inline-block">
-            VIEW ALL TEAMS
-          </Link>
         </div>
       </div>
     </section>
