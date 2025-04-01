@@ -127,6 +127,12 @@ const TeamsSection = () => {
 
               {/* Social Links */}
               <div className="p-3 flex justify-center gap-4 border-t border-[#252430]">
+                {player.socials.steam && (
+              <a href={player.socials.steam} target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+                <FaSteam />
+              </a>
+            )}
+              <div className="p-3 flex justify-center gap-4 border-t border-[#252430]">
                 {player.socials.twitter && (
                   <a href={player.socials.twitter} target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
                     <FaTwitter />
