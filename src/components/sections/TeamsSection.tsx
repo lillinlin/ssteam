@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { FaTwitter, FaInstagram, FaYoutube, FaTwitch } from 'react-icons/fa';
 
 interface PlayerSocial {
+  steam?: string;
   twitter?: string;
   instagram?: string;
   youtube?: string;
@@ -21,11 +22,12 @@ interface Player {
 const players: Player[] = [
   {
     id: 1,
-    name: 'chengnuo',
+    name: 'CHENGNUO',
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/woxic.png',
     socials: {
+      steam: '',
       twitter: '',
       instagram: '',
       youtube: '',
@@ -39,6 +41,7 @@ const players: Player[] = [
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/xantares.png',
     socials: {
+      steam: '',
       twitter: '',
       instagram: '',
       youtube: '',
@@ -51,6 +54,7 @@ const players: Player[] = [
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/maj3r.png',
     socials: {
+      steam: 'https://steamcommunity.com/id/lillinlin',
       twitter: '',
       instagram: '',
       youtube: '',
@@ -64,6 +68,7 @@ const players: Player[] = [
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/wicadia.png',
     socials: {
+      steam: '',
       twitter: '',
       instagram: '',
       twitch: ''
@@ -71,11 +76,12 @@ const players: Player[] = [
   },
   {
     id: 5,
-    name: 'canju',
+    name: 'CANJU',
     fullName: '',
     role: '',
     imageUrl: 'https://eternalfire.gg/wp-content/uploads/2025/01/jottaaa.png',
     socials: {
+      steam: '',
       twitter: '',
       instagram: '',
       twitch: ''
