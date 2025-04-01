@@ -25,7 +25,7 @@ const players: Player[] = [
     name: 'CHENGNUO',
     fullName: '',
     role: '',
-    imageUrl: 'public/zw.jpg',
+    imageUrl: '/zw.jpg',
     socials: { steam: 'https://steamcommunity.com/profiles/76561199005327501', twitter: '', instagram: '', youtube: '', twitch: '' }
   },
   {
@@ -33,7 +33,7 @@ const players: Player[] = [
     name: 'KEEP',
     fullName: '',
     role: '',
-    imageUrl: 'public/zw.jpg',
+    imageUrl: '/zw.jpg',
     socials: { steam: 'https://steamcommunity.com/profiles/76561199053666935', twitter: '', instagram: '', youtube: '' }
   },
   {
@@ -41,7 +41,7 @@ const players: Player[] = [
     name: 'LILLINLIN',
     fullName: '',
     role: '',
-    imageUrl: 'public/k.jpg',
+    imageUrl: '/k.jpg',
     socials: { steam: 'https://steamcommunity.com/id/lillinlin', twitter: '', instagram: '', youtube: '', twitch: '' }
   },
   {
@@ -49,7 +49,7 @@ const players: Player[] = [
     name: 'AQK',
     fullName: '',
     role: '',
-    imageUrl: 'public/zw.jpg',
+    imageUrl: '/zw.jpg',
     socials: { steam: 'https://steamcommunity.com/profiles/76561198427520544', twitter: '', instagram: '', twitch: '' }
   },
   {
@@ -57,7 +57,7 @@ const players: Player[] = [
     name: 'CANJU',
     fullName: '',
     role: '',
-    imageUrl: 'public/zw.jpg',
+    imageUrl: '/zw.jpg',
     socials: { steam: 'https://steamcommunity.com/profiles/76561199104395301', twitter: '', instagram: '', twitch: '' }
   }
 ];
