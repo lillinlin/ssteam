@@ -21,10 +21,10 @@ const HeroSection = () => {
       <div className="container-custom relative z-30 flex flex-col justify-center h-full text-white">
         <div className="max-w-3xl">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-            欢迎来到 <span className="text-primary">SCARLET STARS</span>. 的官方网站
+            欢迎来到 <span className="text-primary">SCARLET STARS</span> 的官方网站
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
-            Eternal Fire aims to expand its success to new horizons in 2025 with plans to build new teams across a wide range of games.
+            SCARLET STARS 是一支不屑于赢前12局的高手战队
           </p>
           <div className="flex flex-wrap gap-4">
             <Link href="/teams" className="btn-primary">
