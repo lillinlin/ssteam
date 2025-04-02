@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   creator: "SCARLET STARS",
   publisher: "SCARLET STARS",
   icons: {
-    icon: "https://ssteam.pages.dev/lilss.png",
+    icon: "/favicon.ico",
   },
 };
 
