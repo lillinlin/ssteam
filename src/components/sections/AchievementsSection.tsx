@@ -15,12 +15,6 @@ const achievements: Achievement[] = [
     imageUrl: 'https://ssteam.pages.dev/pw.png',
     category: 'CS2'
   },
-  {
-    id: ,
-    name: '',
-    imageUrl: '',
-    category: ''
-  }
 ];
 
 const AchievementsSection = () => {
