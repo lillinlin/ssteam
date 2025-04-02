@@ -36,9 +36,8 @@ const Header = () => {
                 </svg>
               </button>
               <div className="absolute left-0 mt-2 w-48 bg-[#1e1c25] shadow-lg rounded-sm opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform -translate-y-2 group-hover:translate-y-0">
-                <Link href="/about-us" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">Eternal Fire</Link>
-                <Link href="/sponsors" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">Sponsors</Link>
-                <Link href="/achievements" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">Achievements</Link>
+                <Link href="/about-us" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">SCARLET STARS</Link>
+
               </div>
             </div>
             <div className="relative group">
@@ -49,12 +48,7 @@ const Header = () => {
                 </svg>
               </button>
               <div className="absolute left-0 mt-2 w-48 bg-[#1e1c25] shadow-lg rounded-sm opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform -translate-y-2 group-hover:translate-y-0">
-                <Link href="/teams/cs2-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">COUNTER-STRIKE 2</Link>
-                <Link href="/teams/cs2-academy-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">COUNTER-STRIKE 2 AC</Link>
-                <Link href="/teams/valorant-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">VALORANT</Link>
-                <Link href="/teams/league-of-legends-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">LEAGUE OF LEGENDS</Link>
-                <Link href="/teams/pubg-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">PUBG</Link>
-                <Link href="/teams/brawl-stars-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">BRAWL STARS</Link>
+                <Link href="/teams/cs2-team" className="block px-4 py-2 hover:bg-[#252430] hover:text-primary">COUNTER-STRIKE</Link>
               </div>
             </div>
             <Link href="/news" className="nav-link font-medium">News</Link>
@@ -127,19 +121,19 @@ const Header = () => {
 
           {/* Social Icons - Mobile */}
           <div className="flex items-center space-x-4 mt-4 pt-4 border-t border-[#252430]">
-            <a href="https://www.facebook.com/eternalfiregg" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaFacebookF />
             </a>
-            <a href="https://twitter.com/eternalfiregg" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaTwitter />
             </a>
-            <a href="https://www.instagram.com/eternalfiregg/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaInstagram />
             </a>
-            <a href="https://www.youtube.com/c/EternalFireGG" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaYoutube />
             </a>
-            <a href="https://www.twitch.tv/eternalfiregg" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaTwitch />
             </a>
           </div>
