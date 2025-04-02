@@ -37,28 +37,40 @@ const Footer = () => {
             </ul>
           </div>
 
+
+
+
+
+
+
+
+
+
+
+          
+
           <div>
             <h4 className="text-xl font-bold mb-6 relative inline-block">
               Connect With Us
               <span className="absolute bottom-0 left-0 w-1/2 h-[2px] bg-primary"></span>
             </h4>
             <div className="flex flex-wrap gap-4 mb-6">
-              <a href="https://www.facebook.com/eternalfiregg" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
+              <a href="" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
                 <FaFacebookF />
               </a>
-              <a href="https://twitter.com/eternalfiregg" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
+              <a href="" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
                 <FaTwitter />
               </a>
-              <a href="https://www.instagram.com/eternalfiregg/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
+              <a href="" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
                 <FaInstagram />
               </a>
-              <a href="https://www.youtube.com/c/EternalFireGG" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
+              <a href="" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
                 <FaYoutube />
               </a>
-              <a href="https://www.twitch.tv/eternalfiregg" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
+              <a href="" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
                 <FaTwitch />
               </a>
-              <a href="https://discord.com/invite/ZEn7kbupCg" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
+              <a href="" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-[#252430] flex items-center justify-center rounded-full hover:bg-primary transition-colors">
                 <FaDiscord />
               </a>
             </div>
