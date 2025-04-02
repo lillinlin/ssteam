@@ -17,8 +17,8 @@ const Header = () => {
           {/* Logo */}
           <Link href="/" className="relative flex items-center">
             <Image
-              src="https://ext.same-assets.com/3578314823/1462723278.png"
-              alt="Eternal Fire Logo"
+              src="https://ssteam.pages.dev/ss.png"
+              alt="SCARLET STARS Logo"
               width={150}
               height={40}
               className="w-auto h-10"
@@ -58,19 +58,19 @@ const Header = () => {
 
           {/* Social Icons - Desktop */}
           <div className="hidden lg:flex items-center space-x-4">
-            <a href="https://www.facebook.com/eternalfiregg" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaFacebookF />
             </a>
-            <a href="https://twitter.com/eternalfiregg" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaTwitter />
             </a>
-            <a href="https://www.instagram.com/eternalfiregg/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaInstagram />
             </a>
-            <a href="https://www.youtube.com/c/EternalFireGG" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaYoutube />
             </a>
-            <a href="https://www.twitch.tv/eternalfiregg" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
+            <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:text-primary transition-colors">
               <FaTwitch />
             </a>
           </div>
