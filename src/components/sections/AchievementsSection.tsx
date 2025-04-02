@@ -20,7 +20,7 @@ const achievements: Achievement[] = [
     name: 'Perfect World Shanghai Major 2024',
     imageUrl: 'https://ssteam.pages.dev/pw.png',
     category: 'CS2'
-  },
+  }
 ];
 
 const AchievementsSection = () => {
