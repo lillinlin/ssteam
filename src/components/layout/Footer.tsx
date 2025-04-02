@@ -11,14 +11,14 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <h4 className="text-xl font-bold mb-6 relative inline-block">
-              Eternal Fire INC.
+              Eternal Fire
               <span className="absolute bottom-0 left-0 w-1/2 h-[2px] bg-primary"></span>
             </h4>
             <p className="text-sm text-gray-300 mb-4">
               Eternal Fire is a Turkey-based esports club founded in 2021. Eternal Fire's was established to create a sustainable culture of sportsmanship and success.
             </p>
             <p className="text-sm text-gray-300">
-              Eternal Fire INC. made its first investments in CS:GO and Valorant. Currently, its CS2 and CS2 Academy teams are formed from players who have achieved significant success in Türkiye and around the globe.
+              Eternal Fire  made its first investments in CS:GO and Valorant. Currently, its CS2 and CS2 Academy teams are formed from players who have achieved significant success in Türkiye and around the globe.
             </p>
           </div>
 
@@ -71,7 +71,7 @@ const Footer = () => {
         {/* Hashtag */}
         <div className="text-center mb-8">
           <a href="https://twitter.com/hashtag/forEF" target="_blank" rel="noopener noreferrer" className="text-primary text-xl font-bold hover:opacity-80 transition-opacity">
-            #forEF
+            #forSS
           </a>
         </div>
 
