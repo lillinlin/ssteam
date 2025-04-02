@@ -82,8 +82,8 @@ const Footer = () => {
 
         {/* Hashtag */}
         <div className="text-center mb-8">
-          <a href="https://twitter.com/hashtag/forEF" target="_blank" rel="noopener noreferrer" className="text-primary text-xl font-bold hover:opacity-80 transition-opacity">
-            #forSS
+          <a href="" target="_blank" rel="noopener noreferrer" className="text-primary text-xl font-bold hover:opacity-80 transition-opacity">
+            SCARLET STARS
           </a>
         </div>
 
