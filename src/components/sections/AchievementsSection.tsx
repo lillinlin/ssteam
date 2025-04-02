@@ -11,52 +11,16 @@ interface Achievement {
 const achievements: Achievement[] = [
   {
     id: 1,
-    name: 'ESL Challenger Katowice 2024',
-    imageUrl: 'https://ext.same-assets.com/3578314823/1223782449.png',
+    name: 'Perfect World Shanghai Major 2024',
+    imageUrl: 'https://ssteam.pages.dev/pw.png',
     category: 'CS2'
   },
-  {
-    id: 2,
-    name: 'BetBoom Dacha Belgrade Season 2',
-    imageUrl: 'https://ext.same-assets.com/3578314823/2998349017.png',
-    category: 'CS2'
-  },
-  {
-    id: 3,
-    name: 'PGL CS2 Major Copenhagen 2024',
-    imageUrl: 'https://ext.same-assets.com/3578314823/260646423.svg',
-    category: 'CS2'
-  },
-  {
-    id: 4,
-    name: 'ESL Pro League Season 20',
-    imageUrl: 'https://ext.same-assets.com/3578314823/548389142.svg',
-    category: 'CS2'
-  },
-  {
-    id: 5,
-    name: 'BLAST Premier Spring Groups 2024',
-    imageUrl: 'https://ext.same-assets.com/3578314823/4061061103.svg',
-    category: 'CS2'
-  },
-  {
-    id: 6,
-    name: 'ESL Championship Türkiye Season 16',
-    imageUrl: 'https://ext.same-assets.com/3578314823/2563901416.svg',
-    category: 'CS2'
-  },
-  {
-    id: 7,
-    name: 'CCT Central Europe Series 2',
-    imageUrl: 'https://ext.same-assets.com/3578314823/2320907649.svg',
-    category: 'CS2'
-  },
-  {
-    id: 8,
-    name: 'PUBG Global Championship 2024',
-    imageUrl: 'https://ext.same-assets.com/3578314823/3783633550.svg',
-    category: 'PUBG'
-  }
+# {
+#    id: 2,
+#    name: 'BetBoom Dacha Belgrade Season 2',
+#    imageUrl: 'https://ext.same-assets.com/3578314823/2998349017.png',
+#    category: 'CS2'
+#  }
 ];
 
 const AchievementsSection = () => {
