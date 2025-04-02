@@ -33,7 +33,7 @@ const Footer = () => {
               <li><Link href="/teams" className="hover:text-primary transition-colors">Teams</Link></li>
               <li><Link href="/news" className="hover:text-primary transition-colors">News</Link></li>
               <li><Link href="" target="_blank" className="hover:text-primary transition-colors">Shop</Link></li>
-              <li><Link href="/contact" className="hover:text-primary transition-colors">Contact</Link></li>
+              <li><Link href="ss@doon.eu.org" className="hover:text-primary transition-colors">Contact</Link></li>
             </ul>
           </div>
 
@@ -70,7 +70,7 @@ const Footer = () => {
               </a>
             </div>
             <p className="text-sm text-gray-300">
-              Join our Discord community to stay updated with the latest news and events.
+              Mail:ss@doon.eu.org
             </p>
           </div>
         </div>
