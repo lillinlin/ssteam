@@ -11,14 +11,14 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <h4 className="text-xl font-bold mb-6 relative inline-block">
-              Eternal Fire
+              SCARLET STARS
               <span className="absolute bottom-0 left-0 w-1/2 h-[2px] bg-primary"></span>
             </h4>
             <p className="text-sm text-gray-300 mb-4">
-              Eternal Fire is a Turkey-based esports club founded in 2021. Eternal Fire's was established to create a sustainable culture of sportsmanship and success.
+              SCARLET STARS 成立于 2024 年
             </p>
             <p className="text-sm text-gray-300">
-              Eternal Fire  made its first investments in CS:GO and Valorant. Currently, its CS2 and CS2 Academy teams are formed from players who have achieved significant success in Türkiye and around the globe.
+             
             </p>
           </div>
 
@@ -32,7 +32,7 @@ const Footer = () => {
               <li><Link href="/about-us" className="hover:text-primary transition-colors">About Us</Link></li>
               <li><Link href="/teams" className="hover:text-primary transition-colors">Teams</Link></li>
               <li><Link href="/news" className="hover:text-primary transition-colors">News</Link></li>
-              <li><Link href="https://shop.eternalfire.gg" target="_blank" className="hover:text-primary transition-colors">Shop</Link></li>
+              <li><Link href="" target="_blank" className="hover:text-primary transition-colors">Shop</Link></li>
               <li><Link href="/contact" className="hover:text-primary transition-colors">Contact</Link></li>
             </ul>
           </div>
@@ -43,11 +43,6 @@ const Footer = () => {
 
 
 
-
-
-
-
-          
 
           <div>
             <h4 className="text-xl font-bold mb-6 relative inline-block">
