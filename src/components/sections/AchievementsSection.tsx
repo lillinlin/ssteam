@@ -25,9 +25,6 @@ const AchievementsSection = () => {
           <h2 className="text-2xl md:text-3xl font-bold text-white">
             CHAMPIONSHIPS & <span className="text-primary">ACHIEVEMENTS</span>
           </h2>
-          <Link href="/achievements" className="text-primary font-semibold hover:opacity-80 transition-opacity">
-            VIEW ALL
-          </Link>
         </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
