@@ -16,12 +16,12 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Eternal Fire - Official Website",
-  description: "Eternal Fire is a Turkey-based esports club founded in 2021. Eternal Fire's was established to create a sustainable culture of sportsmanship and success.",
-  keywords: ["Eternal Fire", "esports", "CS2", "Counter-Strike", "VALORANT", "PUBG", "esports team", "Turkey esports"],
-  authors: [{ name: "Eternal Fire" }],
-  creator: "Eternal Fire",
-  publisher: "Eternal Fire",
+  title: "SCARLET STARS - SS",
+  description: "SCARLET STARS.",
+  keywords: ["SCARLET STARS", "esports", "CS2", "Counter-Strike"],
+  authors: [{ name: "SCARLET STARS" }],
+  creator: "SCARLET STARS",
+  publisher: "SCARLET STARS",
   icons: {
     icon: "/favicon.ico",
   },
