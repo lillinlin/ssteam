@@ -39,21 +39,6 @@ const Footer = () => {
 
           <div>
             <h4 className="text-xl font-bold mb-6 relative inline-block">
-              Teams
-              <span className="absolute bottom-0 left-0 w-1/2 h-[2px] bg-primary"></span>
-            </h4>
-            <ul className="space-y-3 text-gray-300">
-              <li><Link href="/teams/cs2-team" className="hover:text-primary transition-colors">COUNTER-STRIKE 2</Link></li>
-              <li><Link href="/teams/cs2-academy-team" className="hover:text-primary transition-colors">COUNTER-STRIKE 2 ACADEMY</Link></li>
-              <li><Link href="/teams/valorant-team" className="hover:text-primary transition-colors">VALORANT</Link></li>
-              <li><Link href="/teams/league-of-legends-team" className="hover:text-primary transition-colors">LEAGUE OF LEGENDS</Link></li>
-              <li><Link href="/teams/pubg-team" className="hover:text-primary transition-colors">PUBG</Link></li>
-              <li><Link href="/teams/brawl-stars-team" className="hover:text-primary transition-colors">BRAWL STARS</Link></li>
-            </ul>
-          </div>
-
-          <div>
-            <h4 className="text-xl font-bold mb-6 relative inline-block">
               Connect With Us
               <span className="absolute bottom-0 left-0 w-1/2 h-[2px] bg-primary"></span>
             </h4>
