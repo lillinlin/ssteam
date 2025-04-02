@@ -94,9 +94,7 @@ const Header = () => {
             <details className="text-white">
               <summary className="cursor-pointer font-medium">About</summary>
               <div className="pl-4 mt-2 flex flex-col space-y-2">
-                <Link href="/about-us" className="nav-link">Eternal Fire</Link>
-                <Link href="/sponsors" className="nav-link">Sponsors</Link>
-                <Link href="/achievements" className="nav-link">Achievements</Link>
+                <Link href="/about-us" className="nav-link">SCARLET STARS</Link>
               </div>
             </details>
           </div>
@@ -105,18 +103,13 @@ const Header = () => {
             <details className="text-white">
               <summary className="cursor-pointer font-medium">Teams</summary>
               <div className="pl-4 mt-2 flex flex-col space-y-2">
-                <Link href="/teams/cs2-team" className="nav-link">COUNTER-STRIKE 2</Link>
-                <Link href="/teams/cs2-academy-team" className="nav-link">COUNTER-STRIKE 2 AC</Link>
-                <Link href="/teams/valorant-team" className="nav-link">VALORANT</Link>
-                <Link href="/teams/league-of-legends-team" className="nav-link">LEAGUE OF LEGENDS</Link>
-                <Link href="/teams/pubg-team" className="nav-link">PUBG</Link>
-                <Link href="/teams/brawl-stars-team" className="nav-link">BRAWL STARS</Link>
+                <Link href="/teams/cs2-team" className="nav-link">COUNTER-STRIKE</Link>
               </div>
             </details>
           </div>
 
           <Link href="/news" className="py-2 nav-link font-medium">News</Link>
-          <Link href="https://shop.eternalfire.gg" target="_blank" className="py-2 nav-link font-medium">Shop</Link>
+          <Link href="" target="_blank" className="py-2 nav-link font-medium">Shop</Link>
           <Link href="/contact" className="py-2 nav-link font-medium">Contact</Link>
 
           {/* Social Icons - Mobile */}
