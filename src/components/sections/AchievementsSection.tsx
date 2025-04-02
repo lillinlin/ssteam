@@ -15,12 +15,12 @@ const achievements: Achievement[] = [
     imageUrl: 'https://ssteam.pages.dev/pw.png',
     category: 'CS2'
   },
-# {
-#    id: 2,
-#    name: 'BetBoom Dacha Belgrade Season 2',
-#    imageUrl: 'https://ext.same-assets.com/3578314823/2998349017.png',
-#    category: 'CS2'
-#  }
+  {
+    id: 1,
+    name: 'Perfect World Shanghai Major 2024',
+    imageUrl: 'https://ssteam.pages.dev/pw.png',
+    category: 'CS2'
+  },
 ];
 
 const AchievementsSection = () => {
