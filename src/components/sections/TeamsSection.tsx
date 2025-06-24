@@ -41,7 +41,7 @@ const players: Player[] = [
     name: 'LILLINLIN',
     fullName: '',
     role: '',
-    imageUrl: 'https://ssteam.pages.dev/1743739629132.jpg',
+    imageUrl: 'https://ssteam.pages.dev/k.jpg',
     socials: { steam: 'https://steamcommunity.com/id/lillinlin', twitter: '', instagram: '', youtube: '', twitch: '' }
   },
   {
