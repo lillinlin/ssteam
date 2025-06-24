@@ -17,7 +17,7 @@ const Header = () => {
           {/* Logo */}
           <Link href="/" className="relative flex items-center">
             <Image
-              src="https://ssteam.pages.dev/ss.png"
+              src="https://ssteam.pages.dev/ss.svg"
               alt="SCARLET STARS Logo"
               width={150}
               height={40}
