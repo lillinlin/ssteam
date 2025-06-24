@@ -71,7 +71,7 @@ const Footer = () => {
             </div>
             <p className="text-sm text-gray-300">
               Mail:
-                    ss@doon.eu.org
+                    scarlet-stars@doon.eu.org
             </p>
           </div>
         </div>
